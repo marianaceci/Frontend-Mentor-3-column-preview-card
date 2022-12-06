@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/3column-preview-card-component-lTvp4ExrNh](https://www.frontendmentor.io/solutions/3column-preview-card-component-lTvp4ExrNh)
+- Live Site URL: [https://frontend-mentor-3-column-preview-card-pi.vercel.app/](https://frontend-mentor-3-column-preview-card-pi.vercel.app/)
 
 ## My process
 
